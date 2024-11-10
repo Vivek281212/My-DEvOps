@@ -1,5 +1,4 @@
-# My-DEvOps
-Calculator Python Script
+# My-DEvOps - Calculator Python Script
 This is a simple Python-based calculator script that performs basic arithmetic operations like addition, subtraction, multiplication, and division.
 
 Features
