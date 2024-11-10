@@ -17,7 +17,6 @@ Run the script using Python:  python cal.py
 
 
 Example:-
-
 Select operation:
 1. Add
 2. Subtract
